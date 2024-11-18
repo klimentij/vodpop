@@ -3,7 +3,8 @@ title: "Игровой вечер с [id1356995|Vladimir Podshivalov] и [id1667
 date: "2014-05-16"
 categories: 
   - "vk_posts"
-coverImage: "329281388.jpg"
+cover:
+  image: "images/329281388.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/329281389.jpg)

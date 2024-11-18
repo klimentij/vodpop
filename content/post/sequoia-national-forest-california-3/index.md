@@ -3,7 +3,8 @@ title: "Sequoia National Forest, California"
 date: "2017-03-30"
 categories: 
   - "vk_posts"
-coverImage: "456239583.jpg"
+cover:
+  image: "images/456239583.jpg"
 ---
 
 Лес, наполненный магией

@@ -3,7 +3,8 @@ title: "День 772-774"
 date: "2018-11-05"
 categories: 
   - "vk_posts"
-coverImage: "456240823.jpg"
+cover:
+  image: "images/456240823.jpg"
 ---
 
 Ну, кто тут скучал по моим длинным текстам? 😆

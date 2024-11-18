@@ -3,7 +3,8 @@ title: "Sequoia National Forest, California"
 date: "2017-03-31"
 categories: 
   - "vk_posts"
-coverImage: "456239595.jpg"
+cover:
+  image: "images/456239595.jpg"
 ---
 
 Словно в сказке

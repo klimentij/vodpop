@@ -3,7 +3,8 @@ title: "La Sal Loop Road, Castle Valley, Utah"
 date: "2017-03-08"
 categories: 
   - "vk_posts"
-coverImage: "456239409.jpg"
+cover:
+  image: "images/456239409.jpg"
 ---
 
 Безмолвная предзакатная красота

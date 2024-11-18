@@ -3,7 +3,8 @@ title: "San Cristóbal de Las Casas, Chiapas ❤"
 date: "2017-08-28"
 categories: 
   - "vk_posts"
-coverImage: "456240003.jpg"
+cover:
+  image: "images/456240003.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456240004.jpg)

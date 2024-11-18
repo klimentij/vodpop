@@ -3,7 +3,8 @@ title: "День 725"
 date: "2018-08-07"
 categories: 
   - "vk_posts"
-coverImage: "456240767.jpg"
+cover:
+  image: "images/456240767.jpg"
 ---
 
 Секс-отель

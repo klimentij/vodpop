@@ -3,7 +3,8 @@ title: "Поздняя осень в Литве."
 date: "2014-12-15"
 categories: 
   - "vk_posts"
-coverImage: "346400648.jpg"
+cover:
+  image: "images/346400648.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/346400649.jpg)

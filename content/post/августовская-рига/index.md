@@ -3,7 +3,8 @@ title: "Августовская Рига."
 date: "2014-09-25"
 categories: 
   - "vk_posts"
-coverImage: "339514391.jpg"
+cover:
+  image: "images/339514391.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/339514392.jpg)

@@ -3,7 +3,8 @@ title: "La casa de la nona, San Gil, Colombia"
 date: "2018-06-21"
 categories: 
   - "vk_posts"
-coverImage: "456240609.jpg"
+cover:
+  image: "images/456240609.jpg"
 ---
 
 Обещанные фотографии нашей гостиницы. Название переводится как "дом бабушки"

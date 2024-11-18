@@ -3,7 +3,8 @@ title: "День 858. 6 марта. Point Wild, Elephant Island"
 date: "2019-05-11"
 categories: 
   - "vk_posts"
-coverImage: "456241507.jpg"
+cover:
+  image: "images/456241507.jpg"
 ---
 
 В этот день при ветре в 40 узлов (74 км/ч) мы переваливались на волнах в сторону Point Wild. Ох, не зря такое название, не зря...

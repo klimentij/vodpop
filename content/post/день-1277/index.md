@@ -3,7 +3,8 @@ title: "День 1277."
 date: "2020-06-13"
 categories: 
   - "vk_posts"
-coverImage: "457241847.jpg"
+cover:
+  image: "images/457241847.jpg"
 ---
 
 Давненько я не делилась ничем, и пришло время наверстать упущенное.

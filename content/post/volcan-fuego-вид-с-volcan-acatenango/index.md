@@ -3,7 +3,8 @@ title: "Volcán Fuego. Вид с Volcán Acatenango"
 date: "2018-03-01"
 categories: 
   - "vk_posts"
-coverImage: "456240262.jpg"
+cover:
+  image: "images/456240262.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456240263.jpg)

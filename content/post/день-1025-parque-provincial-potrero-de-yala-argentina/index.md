@@ -3,7 +3,8 @@ title: "День 1025. Parque Provincial Potrero de Yala, Argentina"
 date: "2019-08-27"
 categories: 
   - "vk_posts"
-coverImage: "457241661.jpg"
+cover:
+  image: "images/457241661.jpg"
 ---
 
 Мы на несколько дней остановились в городке San Salvador de Jujuy, чтобы перевести дух после вождения и высоты. А в один из дней решили съездить в местный парк, что всего в 14 километрах от города.

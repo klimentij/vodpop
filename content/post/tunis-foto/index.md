@@ -8,7 +8,8 @@ tags:
   - "gorodskaya-kultura"
   - "dostoprimechatelnosti"
   - "еда"
-coverImage: "BhDJc_p4kQQ.jpg"
+cover:
+  image: "images/BhDJc_p4kQQ.jpg"
 ---
 
 Наткнувшись на фото прошлого года, я решила написать о наших впечатлениях от поездки в Тунис в июле 2012 года.

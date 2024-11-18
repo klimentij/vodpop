@@ -3,7 +3,8 @@ title: "Атмосфера Боготы. Молодого человека на 
 date: "2018-07-14"
 categories: 
   - "vk_posts"
-coverImage: "456240702.jpg"
+cover:
+  image: "images/456240702.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456240703.jpg)

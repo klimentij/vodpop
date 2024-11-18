@@ -3,7 +3,8 @@ title: "San Cristóbal de Las Casas. Mercado"
 date: "2017-09-11"
 categories: 
   - "vk_posts"
-coverImage: "456240047.jpg"
+cover:
+  image: "images/456240047.jpg"
 ---
 
 Если у нас когда-нибудь появится дом без колес, за его наполнением я поеду в Чиапас: столько милых душе вещиц я еще нигде не видела

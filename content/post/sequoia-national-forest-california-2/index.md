@@ -3,7 +3,8 @@ title: "Sequoia National Forest, California"
 date: "2017-03-31"
 categories: 
   - "vk_posts"
-coverImage: "456239592.jpg"
+cover:
+  image: "images/456239592.jpg"
 ---
 
 Словно старая добрая Англия. Пейзажи удивительно похожи, разве что на десятки километров вокруг не найти ни одной живой души. Я уже хочу туда вернуться!

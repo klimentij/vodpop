@@ -3,7 +3,8 @@ title: "Хочу."
 date: "2020-07-07"
 categories: 
   - "vk_posts"
-coverImage: "457241856.jpg"
+cover:
+  image: "images/457241856.jpg"
 ---
 
 Хочу закрыть глаза и…

@@ -3,7 +3,8 @@ title: "Highway 128, Utah, Part 1"
 date: "2017-03-06"
 categories: 
   - "vk_posts"
-coverImage: "456239392.jpg"
+cover:
+  image: "images/456239392.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456239393.jpg)

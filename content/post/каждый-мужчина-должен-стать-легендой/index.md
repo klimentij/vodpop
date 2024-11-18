@@ -3,7 +3,8 @@ title: "\"Каждый мужчина должен стать легендой\"
 date: "2014-04-29"
 categories: 
   - "vk_posts"
-coverImage: "327918133.jpg"
+cover:
+  image: "images/327918133.jpg"
 ---
 
 

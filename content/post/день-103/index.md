@@ -3,7 +3,8 @@ title: "День 103."
 date: "2016-07-28"
 categories: 
   - "vk_posts"
-coverImage: "424526773.jpg"
+cover:
+  image: "images/424526773.jpg"
 ---
 
 Road to Prince Rupert

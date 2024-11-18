@@ -3,7 +3,8 @@ title: "Cartagena, Colombia"
 date: "2018-06-15"
 categories: 
   - "vk_posts"
-coverImage: "456240593.jpg"
+cover:
+  image: "images/456240593.jpg"
 ---
 
 Ни разу не была в Испании, и, кажется, это похоже на нее. Кто бывал: мне только кажется или правда похоже?

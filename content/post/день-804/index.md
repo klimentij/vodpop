@@ -3,7 +3,8 @@ title: "День 804"
 date: "2019-02-06"
 categories: 
   - "vk_posts"
-coverImage: "456240979.jpg"
+cover:
+  image: "images/456240979.jpg"
 ---
 
 Лучший день в Эквадоре.

@@ -3,7 +3,8 @@ title: "День 244."
 date: "2017-01-26"
 categories: 
   - "vk_posts"
-coverImage: "456239199.jpg"
+cover:
+  image: "images/456239199.jpg"
 ---
 
 Животный мир на пляже Сан-Диего, Калифорния

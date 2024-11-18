@@ -13,7 +13,8 @@ tags:
   - "kuda-shodit-s-rebenkom-v-sankt-peterburge"
   - "kuda-shodit-s-rebenkom-v-sankt-peterburge-na-vyihodnyih"
   - "luchshie-mesta"
-coverImage: "10-mest-kuda-shodit-s-rebenkom-v-Sankt-Peterburge.jpg"
+cover:
+  image: "images/10-mest-kuda-shodit-s-rebenkom-v-Sankt-Peterburge.jpg"
 ---
 
 Санкт-Петербург — город, известный своими культурными развлечениями: музеями, площадями, дворцами, изобилием памятников и парков. Кроме того, здесь есть множество мест, куда будет интересно сходить как взрослым, так и детям. Я подготовила список 10 лучших мест, куда сходить с ребенком в Петербурге.

@@ -3,7 +3,8 @@ title: "Свадьба в лесу. Redwoods, California"
 date: "2017-04-23"
 categories: 
   - "vk_posts"
-coverImage: "456239663.jpg"
+cover:
+  image: "images/456239663.jpg"
 ---
 
 Фотограф - \[id1623910|Klimenti Bulygin\]

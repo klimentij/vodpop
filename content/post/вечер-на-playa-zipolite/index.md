@@ -3,7 +3,8 @@ title: "Вечер на Playa Zipolite."
 date: "2017-08-08"
 categories: 
   - "vk_posts"
-coverImage: "456239928.jpg"
+cover:
+  image: "images/456239928.jpg"
 ---
 
 Игры с огнем

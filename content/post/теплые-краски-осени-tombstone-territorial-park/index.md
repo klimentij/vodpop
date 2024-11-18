@@ -3,7 +3,8 @@ title: "Теплые краски осени. Tombstone Territorial Park"
 date: "2016-09-13"
 categories: 
   - "vk_posts"
-coverImage: "431459847.jpg"
+cover:
+  image: "images/431459847.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/431459848.jpg)

@@ -3,7 +3,8 @@ title: "Обзорная статья про наш кондо уютный ко
 date: "2014-03-01"
 categories: 
   - "vk_posts"
-coverImage: "322993491-1.jpg"
+cover:
+  image: "images/322993491-1.jpg"
 ---
 
 Обзорная статья про наш кондо уютный кондо на Пхукете. Всем рекомендуем! http://vodpop.ru/kondominium-na-phukete/

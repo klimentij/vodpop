@@ -3,7 +3,8 @@ title: "Mesquite Flat Sand Dunes, Death Valley, USA"
 date: "2017-03-29"
 categories: 
   - "vk_posts"
-coverImage: "456239570.jpg"
+cover:
+  image: "images/456239570.jpg"
 ---
 
 Последняя серия фото-карточек из национального парка Death Valley. Парк оставил какое-то двойственное впечатление: с одной стороны, похожие пейзажи мы уже встречали: Badlands в Южной Дакоте, горную п

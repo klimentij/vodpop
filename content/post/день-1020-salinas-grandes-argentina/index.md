@@ -3,7 +3,8 @@ title: "День 1020. Salinas Grandes, Argentina"
 date: "2019-08-25"
 categories: 
   - "vk_posts"
-coverImage: "457241646.jpg"
+cover:
+  image: "images/457241646.jpg"
 ---
 
 Солончак размером 250 × 100 км находится на северо-западе Аргентины, сразу после пересечения горного перевала Paso de Jama между Чили и Аргентиной.

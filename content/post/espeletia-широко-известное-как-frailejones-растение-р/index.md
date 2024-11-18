@@ -3,7 +3,8 @@ title: "Espeletia, широко известное как \"frailejones\" - ра
 date: "2018-06-30"
 categories: 
   - "vk_posts"
-coverImage: "456240639.jpg"
+cover:
+  image: "images/456240639.jpg"
 ---
 
 Espeletia, широко известное как "frailejones" - растение, растущее в Колумбии, Эквадоре и Венесуэле в зоне Парамо.

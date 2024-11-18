@@ -3,7 +3,8 @@ title: "На улочках San Miguel de Allende."
 date: "2017-06-17"
 categories: 
   - "vk_posts"
-coverImage: "456239812.jpg"
+cover:
+  image: "images/456239812.jpg"
 ---
 
 Один из самых красивых городов Мексики.

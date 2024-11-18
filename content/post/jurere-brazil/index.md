@@ -3,7 +3,8 @@ title: "Jurerê, Brazil"
 date: "2019-12-12"
 categories: 
   - "vk_posts"
-coverImage: "457241784.jpg"
+cover:
+  image: "images/457241784.jpg"
 ---
 
 Пляж, на котором мы провели первую неделю на острове. Потрясающе!

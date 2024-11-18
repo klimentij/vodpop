@@ -3,7 +3,8 @@ title: "Cartagena, Colombia"
 date: "2018-06-13"
 categories: 
   - "vk_posts"
-coverImage: "456240583.jpg"
+cover:
+  image: "images/456240583.jpg"
 ---
 
 Удивительно красивый город!

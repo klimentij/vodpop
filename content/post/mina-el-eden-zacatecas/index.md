@@ -3,7 +3,8 @@ title: "Mina El Edén, Zacatecas"
 date: "2017-06-07"
 categories: 
   - "vk_posts"
-coverImage: "456239769.jpg"
+cover:
+  image: "images/456239769.jpg"
 ---
 
 Никогда бы не подумала, что шахта - это так красиво!

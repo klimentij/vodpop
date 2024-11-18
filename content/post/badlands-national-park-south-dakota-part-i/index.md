@@ -3,7 +3,8 @@ title: "Badlands National Park, South Dakota. Part I"
 date: "2016-11-05"
 categories: 
   - "vk_posts"
-coverImage: "439803536.jpg"
+cover:
+  image: "images/439803536.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/439803537.jpg)

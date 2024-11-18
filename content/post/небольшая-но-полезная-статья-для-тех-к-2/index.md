@@ -3,7 +3,8 @@ title: "Небольшая, но полезная статья для тех, к
 date: "2014-01-03"
 categories: 
   - "vk_posts"
-coverImage: "318452188-1.jpg"
+cover:
+  image: "images/318452188-1.jpg"
 ---
 
 Небольшая, но полезная статья для тех, кто хочет узнать, как добраться из Бангкока в Камбоджу быстрее и дешевле всего. http://vodpop.ru/kak-dobratsya-iz-bangkoka-v-kambodzhu/

@@ -3,7 +3,8 @@ title: "\"Сам ты козел\". Rocky Mountain bighorn sheep, Badlands Natio
 date: "2016-11-06"
 categories: 
   - "vk_posts"
-coverImage: "439804040.jpg"
+cover:
+  image: "images/439804040.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/439804041.jpg)

@@ -3,7 +3,8 @@ title: "Совершенно потрясающие деревья (и мы) в 
 date: "2016-07-14"
 categories: 
   - "vk_posts"
-coverImage: "422877957.jpg"
+cover:
+  image: "images/422877957.jpg"
 ---
 
 

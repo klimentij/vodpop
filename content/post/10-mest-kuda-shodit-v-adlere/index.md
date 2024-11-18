@@ -8,7 +8,8 @@ tags:
   - "kuda-shodit"
   - "kuda-shodit-s-rebenkom"
   - "luchshie-mesta"
-coverImage: "0_151b65_28de391a_orig.jpg"
+cover:
+  image: "images/0_151b65_28de391a_orig.jpg"
 ---
 
 Когда на работе не дают длинный отпуск, то отличным решением может стать короткое путешествие на выходные в один из самых популярных курортов Краснодарского Края – Сочи.

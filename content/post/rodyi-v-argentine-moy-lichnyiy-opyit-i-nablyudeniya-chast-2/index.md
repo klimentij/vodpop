@@ -12,7 +12,8 @@ tags:
   - "latinskaya-amerika"
   - "rodyi"
   - "fernandes"
-coverImage: "DSC_7208_20200401_1539_04_miniatyura.jpg"
+cover:
+  image: "images/DSC_7208_20200401_1539_04_miniatyura.jpg"
 ---
 
 Продолжение рассказа о том, как мы решили рожать в Аргентине.<!--more-->

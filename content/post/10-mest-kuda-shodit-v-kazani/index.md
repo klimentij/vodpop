@@ -11,7 +11,8 @@ tags:
   - "luchshie-mesta"
   - "luchshie-mesta-v-kazani"
   - "mesta"
-coverImage: "kazan_mechet_kul_sharif_kazan_kul_sharif_mosque_01.jpg"
+cover:
+  image: "images/kazan_mechet_kul_sharif_kazan_kul_sharif_mosque_01.jpg"
 ---
 
 Казань — это город, впитавший в себя множество культур на протяжении своей 1000-летней истории. Он по праву считается "третьей столицей" России, ведь это мультинациональный город, полный контрастов и интересных мест для осмотра. В этой статье я поделюсь с вами, куда сходить в Казани.

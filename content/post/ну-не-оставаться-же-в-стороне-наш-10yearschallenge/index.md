@@ -3,7 +3,8 @@ title: "Ну не оставаться же в стороне! Наш #10YearsCh
 date: "2019-02-09"
 categories: 
   - "vk_posts"
-coverImage: "456241096.jpg"
+cover:
+  image: "images/456241096.jpg"
 ---
 
 На фотках нам по 19 лет 😁

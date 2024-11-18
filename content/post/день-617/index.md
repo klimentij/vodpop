@@ -3,7 +3,8 @@ title: "День 617"
 date: "2018-04-27"
 categories: 
   - "vk_posts"
-coverImage: "456240485.jpg"
+cover:
+  image: "images/456240485.jpg"
 ---
 
 Juan Castro Blanco, Parque Nacional, Costa Rica Полтора часа езды от La Fortuna привела нас к одному из самых непосещаемых нац.парков Коста-Рики. Офис парка был закрыт, и мы просто пошли на маршрут,

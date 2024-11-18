@@ -3,7 +3,8 @@ title: "Yellowstone National Park"
 date: "2016-10-19"
 categories: 
   - "vk_posts"
-coverImage: "436969736.jpg"
+cover:
+  image: "images/436969736.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/436969739.jpg)

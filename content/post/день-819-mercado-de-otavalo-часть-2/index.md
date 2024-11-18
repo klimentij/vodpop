@@ -3,7 +3,8 @@ title: "День 819. Mercado de Otavalo. Часть 2"
 date: "2019-02-07"
 categories: 
   - "vk_posts"
-coverImage: "456241042.jpg"
+cover:
+  image: "images/456241042.jpg"
 ---
 
 Ну, кто помнит мои тексты наизусть?)))

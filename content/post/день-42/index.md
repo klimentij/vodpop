@@ -3,7 +3,8 @@ title: "День 42."
 date: "2016-05-30"
 categories: 
   - "vk_posts"
-coverImage: "416493388.jpg"
+cover:
+  image: "images/416493388.jpg"
 ---
 
 Как делают кленовый сироп.

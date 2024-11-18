@@ -3,7 +3,8 @@ title: "Что-то накрыла меня ностальгия по нашим
 date: "2017-04-08"
 categories: 
   - "vk_posts"
-coverImage: "456239634.jpg"
+cover:
+  image: "images/456239634.jpg"
 ---
 
 Что-то накрыла меня ностальгия по нашим прошлым поездкам: за один вечер я перечитала отчеты с Исландии http://vodpop.ru/islandiya-zimoy-chast-1-laguna-geyzer-i-vodopad-gulfoss/ , а затем полезла в наш

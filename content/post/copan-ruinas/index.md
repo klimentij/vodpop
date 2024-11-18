@@ -3,7 +3,8 @@ title: "Copán Ruinas"
 date: "2018-03-16"
 categories: 
   - "vk_posts"
-coverImage: "456240313.jpg"
+cover:
+  image: "images/456240313.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456240314.jpg)

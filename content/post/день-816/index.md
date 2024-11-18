@@ -3,7 +3,8 @@ title: "День 816"
 date: "2018-11-17"
 categories: 
   - "vk_posts"
-coverImage: "456240851.jpg"
+cover:
+  image: "images/456240851.jpg"
 ---
 
 Сегодня мы поехали на самый дальний конец острова San Cristobal, вспомнили старый добрый автостоп.

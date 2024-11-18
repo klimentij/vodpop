@@ -3,7 +3,8 @@ title: "\"Тот, кто говорит, что счастье не купишь
 date: "2017-04-07"
 categories: 
   - "vk_posts"
-coverImage: "456239633.jpg"
+cover:
+  image: "images/456239633.jpg"
 ---
 
 Уилфред П. Лэмптон

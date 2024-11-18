@@ -3,7 +3,8 @@ title: "Mission San Javier, Baja California"
 date: "2017-05-01"
 categories: 
   - "vk_posts"
-coverImage: "456239680.jpg"
+cover:
+  image: "images/456239680.jpg"
 ---
 
 Эта миссия - одна из многочисленных церквей, построенных иезуитами в Мексике. Освоение Нижней Калифорнии (Baja California) иезуитами началось в 1683 году: они имели большое влияние на индейцев перику

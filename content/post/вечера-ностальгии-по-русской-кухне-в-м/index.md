@@ -3,7 +3,8 @@ title: "Вечера ностальгии по русской кухне в Ме
 date: "2017-07-31"
 categories: 
   - "vk_posts"
-coverImage: "456239912.jpg"
+cover:
+  image: "images/456239912.jpg"
 ---
 
 Борщ с чесночными пампушками. Ням-ням.

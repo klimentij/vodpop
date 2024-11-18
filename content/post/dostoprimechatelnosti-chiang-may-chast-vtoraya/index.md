@@ -10,7 +10,8 @@ tags:
   - "priklyucheniya"
   - "tishina"
   - "hramyi"
-coverImage: "0_1180eb_c8add116_XXXL.jpg"
+cover:
+  image: "images/0_1180eb_c8add116_XXXL.jpg"
 ---
 
 Продолжение цикла статей про достопримечательности Чианг Мая. Чем еще может удивить северная столица Таиланда?

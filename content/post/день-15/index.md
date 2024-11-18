@@ -3,7 +3,8 @@ title: "День 15."
 date: "2016-04-27"
 categories: 
   - "vk_posts"
-coverImage: "411766435.jpg"
+cover:
+  image: "images/411766435.jpg"
 ---
 
 Кто любит Стивена Кинга?

@@ -3,7 +3,8 @@ title: "Ужин дома. Манго, драконий фрукт, папайя
 date: "2013-10-09"
 categories: 
   - "vk_posts"
-coverImage: "312402059-1.jpg"
+cover:
+  image: "images/312402059-1.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/312402060-1.jpg)

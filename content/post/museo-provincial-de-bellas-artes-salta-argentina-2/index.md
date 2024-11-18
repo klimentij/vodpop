@@ -3,7 +3,8 @@ title: "Museo Provincial de Bellas Artes, Salta, Argentina"
 date: "2019-09-04"
 categories: 
   - "vk_posts"
-coverImage: "457241668.jpg"
+cover:
+  image: "images/457241668.jpg"
 ---
 
 Фотографии в музеях мы не делаем практически никогда: все равно атмосферу не передать, да и предпочитаем наслаждаться присутствием в конкретном месте, в конкретный момент.

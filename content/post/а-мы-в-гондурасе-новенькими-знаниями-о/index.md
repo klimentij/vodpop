@@ -3,7 +3,8 @@ title: "А мы в Гондурасе новенькими знаниями об
 date: "2018-03-08"
 categories: 
   - "vk_posts"
-coverImage: "456240292.jpg"
+cover:
+  image: "images/456240292.jpg"
 ---
 
 

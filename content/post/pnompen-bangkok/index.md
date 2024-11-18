@@ -8,7 +8,8 @@ categories:
 tags: 
   - "автобусы"
   - "chto-vzyat-v-poezdku"
-coverImage: "0_f1904_4ecf0040_XXXL.jpg"
+cover:
+  image: "images/0_f1904_4ecf0040_XXXL.jpg"
 ---
 
 Пожалуй, в тот момент, когда мы вошли в  ночной автобус Пномпень-Бангкок, мы поняли, что нам предстоит веселое путешествие.

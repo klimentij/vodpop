@@ -7,7 +7,8 @@ categories:
   - "tailand"
 tags: 
   - "океанариум"
-coverImage: "0_e53aa_371acc9a_XXXL.jpg"
+cover:
+  image: "images/0_e53aa_371acc9a_XXXL.jpg"
 ---
 
 Океанариум Siam Ocean World  в Бангкоке - второй по величине океанариум в Юго-Восточной Азии, стал второй достопримечательностью, которую мы посетили по прилету в Бангкок.

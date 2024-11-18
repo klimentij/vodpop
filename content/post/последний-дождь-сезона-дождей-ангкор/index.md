@@ -3,7 +3,8 @@ title: "Последний дождь сезона дождей. Ангкор В
 date: "2013-12-01"
 categories: 
   - "vk_posts"
-coverImage: "316055932.jpg"
+cover:
+  image: "images/316055932.jpg"
 ---
 
 

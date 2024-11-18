@@ -7,7 +7,8 @@ categories:
 tags: 
   - "dostoprimechatelnosti"
   - "hramyi"
-coverImage: "0_118258_df499624_XXXL.jpg"
+cover:
+  image: "images/0_118258_df499624_XXXL.jpg"
 ---
 
 Белый храм в Чианг Рае или Wat Rong Khun - один из самых популярных объектов фотографирования во всем Таиланде. Невероятной красоты и архитектуры храм построен всемирно признанным художником Таваном Дучани (Thawan Duchanee).

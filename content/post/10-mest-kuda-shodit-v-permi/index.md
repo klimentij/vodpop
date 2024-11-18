@@ -9,7 +9,8 @@ tags:
   - "kuda-shodit-v-permi"
   - "luchshie-mesta"
   - "perm"
-coverImage: "kungurskaya_peshera_2x.jpg"
+cover:
+  image: "images/kungurskaya_peshera_2x.jpg"
 ---
 
 Молния: Баба-яга — пермячка! И неудивительно, ведь Пермь окружена густыми лесами, а половина ее городской территории — рощи и парки.

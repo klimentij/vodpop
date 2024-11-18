@@ -3,7 +3,8 @@ title: "Иногда дорога бывает приятной, а иногда
 date: "2014-02-22"
 categories: 
   - "vk_posts"
-coverImage: "322372883.jpg"
+cover:
+  image: "images/322372883.jpg"
 ---
 
 Иногда дорога бывает приятной, а иногда - как в этой статье про ночной автобус из Пномпеня в Бангкок http://vodpop.ru/pnompen-bangkok/

@@ -3,7 +3,8 @@ title: "Галапагосская морская игуана желает ва
 date: "2019-01-18"
 categories: 
   - "vk_posts"
-coverImage: "456240877.jpg"
+cover:
+  image: "images/456240877.jpg"
 ---
 
 

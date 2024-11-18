@@ -3,7 +3,8 @@ title: "Няша-очароваша в Juan Castro Blanco, Parque Nacional, Cost
 date: "2018-04-27"
 categories: 
   - "vk_posts"
-coverImage: "456240492.jpg"
+cover:
+  image: "images/456240492.jpg"
 ---
 
 

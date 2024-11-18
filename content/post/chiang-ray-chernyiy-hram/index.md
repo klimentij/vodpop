@@ -7,7 +7,8 @@ categories:
 tags: 
   - "dostoprimechatelnosti"
   - "hramyi"
-coverImage: "0_1181ea_4d6db3ad_XXXL.jpg"
+cover:
+  image: "images/0_1181ea_4d6db3ad_XXXL.jpg"
 ---
 
 Черный храм в Чианг Рае - одна из самых жутких достопримечательностей Таиланда.

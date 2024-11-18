@@ -3,7 +3,8 @@ title: "День 894. El Parque Nacional Huascarán, Peru"
 date: "2019-04-26"
 categories: 
   - "vk_posts"
-coverImage: "456241413.jpg"
+cover:
+  image: "images/456241413.jpg"
 ---
 
 Huaraz - Carhuaz - Chacas - Chancos Termales - Huaraz

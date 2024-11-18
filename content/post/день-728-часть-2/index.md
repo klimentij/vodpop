@@ -3,7 +3,8 @@ title: "День 728. Часть 2"
 date: "2018-08-13"
 categories: 
   - "vk_posts"
-coverImage: "456240790.jpg"
+cover:
+  image: "images/456240790.jpg"
 ---
 
 Valle de Cocora, Parque Nacional Los Nevados, Colombia

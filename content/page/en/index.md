@@ -1,7 +1,8 @@
 ---
 title: "Let's Stay in Touch! :)"
 date: "2017-01-08"
-coverImage: "0_1a4409_64c3993b_orig.jpeg"
+cover:
+  image: "images/0_1a4409_64c3993b_orig.jpeg"
 ---
 
 Hi there! We're Sasha and Klim, travellers from Russia. We've already visited about 40 countries and now we're in the huge trip around all the countries in North and South America heading to Argentina by our car. We bought our Toyota Prius in Vermont, USA in April 2016 and deeply explored Canada and States by driving over 40 000 miles (64k km) all over the place. In Jan 2017 we changed our Prius to Toyota 4Runner '04 to have more freedom overland. We love to stay with locals to understand their life and share the experience.

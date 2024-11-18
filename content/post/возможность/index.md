@@ -3,7 +3,8 @@ title: "Возможность."
 date: "2019-02-05"
 categories: 
   - "vk_posts"
-coverImage: "456240972.jpg"
+cover:
+  image: "images/456240972.jpg"
 ---
 
 Может, среди читателей есть желающие поволонтерить в Amarun Pakcha?

@@ -3,7 +3,8 @@ title: "Наш первый дождь в Мексике."
 date: "2017-06-05"
 categories: 
   - "vk_posts"
-coverImage: "456239761.jpg"
+cover:
+  image: "images/456239761.jpg"
 ---
 
 История о разбитой коленке в картинках.

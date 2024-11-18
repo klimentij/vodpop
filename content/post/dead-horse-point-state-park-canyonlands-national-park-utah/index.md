@@ -3,7 +3,8 @@ title: "Dead Horse Point State Park + Canyonlands National Park, Utah"
 date: "2017-03-11"
 categories: 
   - "vk_posts"
-coverImage: "456239446.jpg"
+cover:
+  image: "images/456239446.jpg"
 ---
 
 Shafer Trail - дорога для машин 4\*4, которая позволяет насладиться видами на каньоны, начиная с самого верха, постепенно съезжая вниз вдоль отвесной скалы по серпантину, и продолжая уже по грунтовке

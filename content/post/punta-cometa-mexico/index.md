@@ -3,7 +3,8 @@ title: "Punta Cometa, Mexico"
 date: "2017-08-04"
 categories: 
   - "vk_posts"
-coverImage: "456239920.jpg"
+cover:
+  image: "images/456239920.jpg"
 ---
 
 Небольшой хайк с прекрасными видами. Спасибо Крошке Еноту за рекомендацию

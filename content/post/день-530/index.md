@@ -3,7 +3,8 @@ title: "День 530"
 date: "2018-01-29"
 categories: 
   - "vk_posts"
-coverImage: "456240200.jpg"
+cover:
+  image: "images/456240200.jpg"
 ---
 
 Изначально мы планировали пропустить столицу Гватемалы, официальное имя которой, кстати, Nueva Guatemala de la Asunción, а вовсе не Ciudad de Guatemala, как считают 99% людей, не открывавших статью на Википедии 😃

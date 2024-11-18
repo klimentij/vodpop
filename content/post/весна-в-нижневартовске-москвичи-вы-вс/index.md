@@ -3,7 +3,8 @@ title: "Весна в Нижневартовске...Москвичи, вы вс
 date: "2015-04-01"
 categories: 
   - "vk_posts"
-coverImage: "358799419.jpg"
+cover:
+  image: "images/358799419.jpg"
 ---
 
 

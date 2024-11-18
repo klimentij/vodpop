@@ -3,7 +3,8 @@ title: "Flashback. День 785"
 date: "2019-01-14"
 categories: 
   - "vk_posts"
-coverImage: "456240870.jpg"
+cover:
+  image: "images/456240870.jpg"
 ---
 
 Галапагосы.

@@ -8,7 +8,8 @@ tags:
   - "strahovanie-puteshestvennikov"
   - "strahovka"
   - "ssha"
-coverImage: "Statue-of-liberty-evacuation-1.jpg"
+cover:
+  image: "images/Statue-of-liberty-evacuation-1.jpg"
 ---
 
 Оформить туристическую страховку в США довольно просто, однако, существуют некоторые нюансы. Поделюсь личным опытом, где лучше всего оформить страховку в США, как сэкономить и что делать при наступлении страхового случая.

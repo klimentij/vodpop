@@ -3,7 +3,8 @@ title: "День 287. Часть 2"
 date: "2017-03-13"
 categories: 
   - "vk_posts"
-coverImage: "456239474.jpg"
+cover:
+  image: "images/456239474.jpg"
 ---
 
 Городок Page, куда мы приехали, чтобы полюбоваться на знаменитый Antelope Canyoun и Horseshoe Bend, был основан в 1957 году как жилой лагерь для работников, строивших плотину Glen Canyon Dam (на фотографиях).

@@ -3,7 +3,8 @@ title: "День 692. Часть 4"
 date: "2018-07-17"
 categories: 
   - "vk_posts"
-coverImage: "456240709.jpg"
+cover:
+  image: "images/456240709.jpg"
 ---
 
 Что же такое-то?!

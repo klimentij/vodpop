@@ -3,7 +3,8 @@ title: "День 831. Chimborazo. Часть 3"
 date: "2019-02-14"
 categories: 
   - "vk_posts"
-coverImage: "456241134.jpg"
+cover:
+  image: "images/456241134.jpg"
 ---
 
 О чем нельзя забывать.

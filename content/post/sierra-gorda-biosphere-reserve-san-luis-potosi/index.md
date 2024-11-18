@@ -3,7 +3,8 @@ title: "Sierra Gorda Biosphere Reserve, San Luis Potosi"
 date: "2017-06-15"
 categories: 
   - "vk_posts"
-coverImage: "456239803.jpg"
+cover:
+  image: "images/456239803.jpg"
 ---
 
 Когда дорога - произведение искусства

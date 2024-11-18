@@ -8,7 +8,8 @@ tags:
   - "gorodskaya-kultura"
   - "dostoprimechatelnosti"
   - "nepopulyarnyie-mesta"
-coverImage: "0_159cef_9a402cf9_orig-1.jpg"
+cover:
+  image: "images/0_159cef_9a402cf9_orig-1.jpg"
 ---
 
 Бурса в Турции - это скрытая жемчужина, которая никогда не появляется в пакетных турах или даже экскурсиях, предлагаемых при заселении в отель. Встретить русского там такие же высокие шансы, как [на леднике в Исландии](https://vodpop.ru/islandiya-zimoy-chast-3-strana-ldov/), хотя, как говорится, чем черт не шутит...

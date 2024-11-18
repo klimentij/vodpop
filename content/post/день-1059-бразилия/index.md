@@ -3,7 +3,8 @@ title: "День 1059. Бразилия"
 date: "2019-11-08"
 categories: 
   - "vk_posts"
-coverImage: "457241712.jpg"
+cover:
+  image: "images/457241712.jpg"
 ---
 
 Ну что, добро пожаловать в 56 страну!

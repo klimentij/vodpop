@@ -3,7 +3,8 @@ title: "Antelope Canyon, Arizona"
 date: "2017-03-14"
 categories: 
   - "vk_posts"
-coverImage: "456239494.jpg"
+cover:
+  image: "images/456239494.jpg"
 ---
 
 Квинтэссенция красоты

@@ -3,7 +3,8 @@ title: "Озеро Блед, Словения. Одно из многих мес
 date: "2014-05-13"
 categories: 
   - "vk_posts"
-coverImage: "329019687.jpg"
+cover:
+  image: "images/329019687.jpg"
 ---
 
 

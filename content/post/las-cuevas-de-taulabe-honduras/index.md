@@ -3,7 +3,8 @@ title: "Las Cuevas de Taulabé, Honduras"
 date: "2018-03-20"
 categories: 
   - "vk_posts"
-coverImage: "456240361.jpg"
+cover:
+  image: "images/456240361.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456240362.jpg)

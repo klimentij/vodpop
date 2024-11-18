@@ -3,7 +3,8 @@ title: "День 746"
 date: "2018-08-24"
 categories: 
   - "vk_posts"
-coverImage: "456240805.jpg"
+cover:
+  image: "images/456240805.jpg"
 ---
 
 Не гневите Бога

@@ -3,7 +3,8 @@ title: "Antarctica_Ice"
 date: "2019-04-15"
 categories: 
   - "vk_posts"
-coverImage: "456241319.jpg"
+cover:
+  image: "images/456241319.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456241320.jpg)

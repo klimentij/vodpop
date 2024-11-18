@@ -3,7 +3,8 @@ title: "Tall Trees Trail, Redwood National Park, CA"
 date: "2016-12-02"
 categories: 
   - "vk_posts"
-coverImage: "456239116.jpg"
+cover:
+  image: "images/456239116.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456239117.jpg)

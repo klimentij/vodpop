@@ -3,7 +3,8 @@ title: "Toyota Prius&Toyota 4Runner"
 date: "2019-02-06"
 categories: 
   - "vk_posts"
-coverImage: "456241011.jpg"
+cover:
+  image: "images/456241011.jpg"
 ---
 
 Август 2016/Январь 2018

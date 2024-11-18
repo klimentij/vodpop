@@ -3,7 +3,8 @@ title: "San Cristóbal de Las Casas. Hecho a mano"
 date: "2017-08-30"
 categories: 
   - "vk_posts"
-coverImage: "456240014.jpg"
+cover:
+  image: "images/456240014.jpg"
 ---
 
 Приятные сердцу безделушки ручной работы тут можно купить за сущие гроши

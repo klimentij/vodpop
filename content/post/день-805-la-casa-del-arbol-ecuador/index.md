@@ -3,7 +3,8 @@ title: "День 805. La Casa del Arbol, Ecuador"
 date: "2019-02-06"
 categories: 
   - "vk_posts"
-coverImage: "456240988.jpg"
+cover:
+  image: "images/456240988.jpg"
 ---
 
 Уверена, что если вы когда-нибудь видели брошюрку про Эквадор, то на фото было это место! Человек, качели, пропасть.

@@ -3,7 +3,8 @@ title: "Quetzal, Panama"
 date: "2018-05-28"
 categories: 
   - "vk_posts"
-coverImage: "456240554.jpg"
+cover:
+  image: "images/456240554.jpg"
 ---
 
 А вот и наши фотографии неуловимой птицы!

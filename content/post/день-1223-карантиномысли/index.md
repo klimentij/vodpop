@@ -3,7 +3,8 @@ title: "День 1223. Карантиномысли"
 date: "2020-04-20"
 categories: 
   - "vk_posts"
-coverImage: "457241843.jpg"
+cover:
+  image: "images/457241843.jpg"
 ---
 
 Навеяно просмотром стран социальных сетей.

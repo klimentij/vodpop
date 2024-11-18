@@ -3,7 +3,8 @@ title: "Zacatecas, Mexico"
 date: "2017-06-08"
 categories: 
   - "vk_posts"
-coverImage: "456239776.jpg"
+cover:
+  image: "images/456239776.jpg"
 ---
 
 Некоторые города ночью прекраснее, чем днем

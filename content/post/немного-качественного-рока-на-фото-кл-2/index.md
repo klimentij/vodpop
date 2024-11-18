@@ -3,7 +3,8 @@ title: "Немного качественного рока. На фото Кли
 date: "2014-01-14"
 categories: 
   - "vk_posts"
-coverImage: "319363269-1.jpg"
+cover:
+  image: "images/319363269-1.jpg"
 ---
 
 

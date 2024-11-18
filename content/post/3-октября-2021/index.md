@@ -3,7 +3,8 @@ title: "3 октября 2021"
 date: "2021-10-04"
 categories: 
   - "vk_posts"
-coverImage: "457241897.jpg"
+cover:
+  image: "images/457241897.jpg"
 ---
 
 Когда так много событий, что не знаешь, о чем и рассказать.

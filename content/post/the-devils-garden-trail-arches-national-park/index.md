@@ -3,7 +3,8 @@ title: "The Devil's Garden Trail, Arches National Park"
 date: "2017-03-09"
 categories: 
   - "vk_posts"
-coverImage: "456239418.jpg"
+cover:
+  image: "images/456239418.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456239419.jpg)

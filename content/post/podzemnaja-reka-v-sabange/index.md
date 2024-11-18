@@ -9,7 +9,8 @@ tags:
   - "dostoprimechatelnosti"
   - "мотопутешествия"
   - "podzemnaya-reka"
-coverImage: "0_e8451_ed38208_XXXL.jpg"
+cover:
+  image: "images/0_e8451_ed38208_XXXL.jpg"
 ---
 
 Попасть на Подземную Реку (Underground River)  в Сабанге (Sabang) можно несколькими способами. Мы решили не переплачивать в турфирме: арендовали байк и съездили на реку самостоятельно.

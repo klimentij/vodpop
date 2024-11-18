@@ -9,7 +9,8 @@ tags:
   - "moskva"
   - "spektakli"
   - "teatr"
-coverImage: "photoeditorsdk-export.4Se1l.png"
+cover:
+  image: "images/photoeditorsdk-export.4Se1l.png"
 ---
 
 Интерактивный Бэби Театр - это не просто детский театр. Это новый самостоятельный театральный жанр: он создан для самых маленьких зрителей, и имеет несколько принципиальных отличий от традиционного театра.<!--more-->

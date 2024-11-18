@@ -3,7 +3,8 @@ title: "Oregon Coast, Pacific Ocean"
 date: "2016-11-23"
 categories: 
   - "vk_posts"
-coverImage: "456239075.jpg"
+cover:
+  image: "images/456239075.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456239076.jpg)

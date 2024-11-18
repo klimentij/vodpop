@@ -3,7 +3,8 @@ title: "Капибары 😍"
 date: "2019-12-08"
 categories: 
   - "vk_posts"
-coverImage: "457241768.jpg"
+cover:
+  image: "images/457241768.jpg"
 ---
 
 Establecimiento Las Marias, Provincia de Corrientes, Argentina

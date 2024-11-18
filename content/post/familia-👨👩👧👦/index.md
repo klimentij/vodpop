@@ -3,7 +3,8 @@ title: "Familia 👨‍👩‍👧‍👦"
 date: "2022-02-11"
 categories: 
   - "vk_posts"
-coverImage: "457241912.jpg"
+cover:
+  image: "images/457241912.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/457241913.jpg)

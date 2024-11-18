@@ -3,7 +3,8 @@ title: "Колокольня Никольского Собора, Калязин
 date: "2014-06-13"
 categories: 
   - "vk_posts"
-coverImage: "331624307.jpg"
+cover:
+  image: "images/331624307.jpg"
 ---
 
 

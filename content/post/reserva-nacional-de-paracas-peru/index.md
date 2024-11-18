@@ -3,7 +3,8 @@ title: "Reserva Nacional de Paracas, Peru"
 date: "2019-06-30"
 categories: 
   - "vk_posts"
-coverImage: "456241556.jpg"
+cover:
+  image: "images/456241556.jpg"
 ---
 
 Рай для 4x4

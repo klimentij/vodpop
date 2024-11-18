@@ -3,7 +3,8 @@ title: "Bangcook, Thai street food. San Cristóbal de Las Casas"
 date: "2017-08-28"
 categories: 
   - "vk_posts"
-coverImage: "456240009.jpg"
+cover:
+  image: "images/456240009.jpg"
 ---
 
 Я просто обязана поделиться этим местом с вами. Самая вкусная еда в Мексике. Да, мы в курсе, что она тайская. Но вкус падтая, риса с курицей и овощами - за гранью вкусовых рецепторов. Ох, давно мы та

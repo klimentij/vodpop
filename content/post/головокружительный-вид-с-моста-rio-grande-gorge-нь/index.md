@@ -3,7 +3,8 @@ title: "Головокружительный вид с моста Rio Grande Gor
 date: "2017-02-21"
 categories: 
   - "vk_posts"
-coverImage: "456239315.jpg"
+cover:
+  image: "images/456239315.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456239316.jpg)

@@ -3,7 +3,8 @@ title: "День 740"
 date: "2018-08-25"
 categories: 
   - "vk_posts"
-coverImage: "456240807.jpg"
+cover:
+  image: "images/456240807.jpg"
 ---
 
 Та-даааам!

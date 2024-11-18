@@ -6,7 +6,8 @@ categories:
 tags: 
   - "dostoprimechatelnosti-anglii"
   - "chto-posmotret-v-anglii"
-coverImage: "0_13f534_6443e513_XXXL.jpg"
+cover:
+  image: "images/0_13f534_6443e513_XXXL.jpg"
 ---
 
 Решили, что Эдинбургские музеи переживут без нашего присутствия, мы отправились к городу Фолкерк, где расположено чудо инженерной мысли: Фолкерское колесо.

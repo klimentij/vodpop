@@ -3,7 +3,8 @@ title: "Strongylodon macrobotrys"
 date: "2018-02-27"
 categories: 
   - "vk_posts"
-coverImage: "456240240.jpg"
+cover:
+  image: "images/456240240.jpg"
 ---
 
 Менее научное название цветка - Jade, "нефрит"

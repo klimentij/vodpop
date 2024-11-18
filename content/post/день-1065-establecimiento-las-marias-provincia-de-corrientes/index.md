@@ -3,7 +3,8 @@ title: "День 1065. Establecimiento Las Marias, Provincia de Corrientes"
 date: "2019-11-22"
 categories: 
   - "vk_posts"
-coverImage: "457241755.jpg"
+cover:
+  image: "images/457241755.jpg"
 ---
 
 По дороге в Буэнос-Айрес мы сделали остановку в провинции Корриентес, знаменитой прежде всего тем, что здесь производят самый аргентинский продукт – yerba mate ("йерба мате").

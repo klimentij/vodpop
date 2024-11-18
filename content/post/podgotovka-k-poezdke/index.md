@@ -10,7 +10,8 @@ tags:
   - "strahovka"
   - "trip"
   - "fotografiya"
-coverImage: "activity-adventure-blur-297642_result-1.jpg"
+cover:
+  image: "images/activity-adventure-blur-297642_result-1.jpg"
 ---
 
 Если вы хотите отправиться в путешествие, но не знаете, как это сделать, то вы пришли по нужному адресу! Мы с Климом посетили 49 стран, и их количество постоянно растет. Начинали мы с путешествий автостопом по России, с рюкзаком и на мотоцикле по Азии, на машине по Европе, а последние два года непрерывно путешествуем на [собственной машине](https://vodpop.ru/kak-kupit-mashinu-v-sha/) по Америкам. Следить за нами можно в [Вконтакте](https://vk.com/vodpop) и в [Facebook](https://www.facebook.com/alexbulygina).

@@ -9,7 +9,8 @@ tags:
   - "nepopulyarnyie-mesta"
   - "острова"
   - "снорклинг"
-coverImage: "0_ea38f_763b4b32_XXXL.jpg"
+cover:
+  image: "images/0_ea38f_763b4b32_XXXL.jpg"
 ---
 
 Во время нашего путешествия по острову Палаван нам посчастливилось увидеть самые красивые острова Филиппин - Coconut Island, German Island и Exotic Island.

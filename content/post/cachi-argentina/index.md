@@ -3,7 +3,8 @@ title: "Cachi, Argentina"
 date: "2019-09-13"
 categories: 
   - "vk_posts"
-coverImage: "457241680.jpg"
+cover:
+  image: "images/457241680.jpg"
 ---
 
 Нам этот городок на Ruta del Vino понравился даже больше, чем знаменитый Cafayate. Тишина, разбавленная пением птиц. Если нужно переключиться от шума большого города, то Cachi – идеальный вариант.

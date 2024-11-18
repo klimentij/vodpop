@@ -3,7 +3,8 @@ title: "Вот так выглядит настоящая любовь. Одна
 date: "2015-05-14"
 categories: 
   - "vk_posts"
-coverImage: "365950268.jpg"
+cover:
+  image: "images/365950268.jpg"
 ---
 
 

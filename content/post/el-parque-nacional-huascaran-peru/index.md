@@ -3,7 +3,8 @@ title: "El Parque Nacional Huascarán, Peru"
 date: "2019-04-27"
 categories: 
   - "vk_posts"
-coverImage: "456241422.jpg"
+cover:
+  image: "images/456241422.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456241423.jpg)

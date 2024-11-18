@@ -7,7 +7,8 @@ categories:
 tags: 
   - "dostoprimechatelnosti"
   - "еда"
-coverImage: "0_f1680_d911459a_XXXL.jpg"
+cover:
+  image: "images/0_f1680_d911459a_XXXL.jpg"
 ---
 
 Решив выбраться в выходной день из центра Гонконга на остров Ламма, мы случайно попали на благотворительную ярмарку Lamma Fun Day.

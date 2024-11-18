@@ -3,7 +3,8 @@ title: "День 700"
 date: "2018-07-19"
 categories: 
   - "vk_posts"
-coverImage: "456240716.jpg"
+cover:
+  image: "images/456240716.jpg"
 ---
 
 Guatapé - одна из наиболее популярных достопримечательностей в окрестностях Медельина. Знаменита, прежде всего, скалой Piedra del Peñol высотой 220 метров, окруженный Laguna de Guatape.

@@ -3,7 +3,8 @@ title: "2 июля и 3 июля 2022"
 date: "2022-07-03"
 categories: 
   - "vk_posts"
-coverImage: "457241916.jpg"
+cover:
+  image: "images/457241916.jpg"
 ---
 
 Часть Первая. 2 июля.

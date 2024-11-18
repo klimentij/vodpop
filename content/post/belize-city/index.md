@@ -3,7 +3,8 @@ title: "Belize-City"
 date: "2018-01-12"
 categories: 
   - "vk_posts"
-coverImage: "456240146.jpg"
+cover:
+  image: "images/456240146.jpg"
 ---
 
 Говорят, самый опасный город Центральной Америки. Мы этого, к счастью, не ощутили

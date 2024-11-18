@@ -3,7 +3,8 @@ title: "По старинке ручками взбиваем бисквитно
 date: "2014-04-16"
 categories: 
   - "vk_posts"
-coverImage: "326863490.jpg"
+cover:
+  image: "images/326863490.jpg"
 ---
 
 

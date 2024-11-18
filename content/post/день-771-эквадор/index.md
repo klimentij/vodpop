@@ -3,7 +3,8 @@ title: "День 771. Эквадор"
 date: "2018-11-03"
 categories: 
   - "vk_posts"
-coverImage: "456240822.jpg"
+cover:
+  image: "images/456240822.jpg"
 ---
 
 Наша юбилейная, 50 страна по счету!

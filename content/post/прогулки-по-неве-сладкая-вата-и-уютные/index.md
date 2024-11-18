@@ -3,7 +3,8 @@ title: "Прогулки по Неве, сладкая вата и уютные 
 date: "2014-09-13"
 categories: 
   - "vk_posts"
-coverImage: "339140593.jpg"
+cover:
+  image: "images/339140593.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/339140594.jpg)

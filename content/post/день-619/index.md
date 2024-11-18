@@ -3,7 +3,8 @@ title: "День 619"
 date: "2018-04-28"
 categories: 
   - "vk_posts"
-coverImage: "456240494.jpg"
+cover:
+  image: "images/456240494.jpg"
 ---
 
 Parque Nacional Volcán Tenorio, Costa Rica Один из тех парков, где на входе надо просто отвернуться, протягивая деньги за вход, чтобы не испытывать практически физической боли от прейскуранта. Но оно

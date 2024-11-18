@@ -3,7 +3,8 @@ title: "Flashback. День 786"
 date: "2019-01-25"
 categories: 
   - "vk_posts"
-coverImage: "456240898.jpg"
+cover:
+  image: "images/456240898.jpg"
 ---
 
 Я в кадре определенная лишняя, но как еще понять размеры слоновой черепахи?

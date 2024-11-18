@@ -3,7 +3,8 @@ title: "Cascadas de Tamasopo, Huasteca Potosina"
 date: "2017-06-15"
 categories: 
   - "vk_posts"
-coverImage: "456239801.jpg"
+cover:
+  image: "images/456239801.jpg"
 ---
 
 Сюда мы поехали сразу после Puente de Dios, и с радостью заметили, что народу тут поменьше. Приятным бонусом стала еле заметная деревянная лесенка, ведущая наверх, к водопадам. Прогулка в 5 минут при

@@ -3,7 +3,8 @@ title: "Ох уж эти сувениры...Надпись на кружке \"I
 date: "2015-01-04"
 categories: 
   - "vk_posts"
-coverImage: "349652740.jpg"
+cover:
+  image: "images/349652740.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/349652741.jpg)

@@ -3,7 +3,8 @@ title: "День 844-850. Часть 2"
 date: "2019-02-27"
 categories: 
   - "vk_posts"
-coverImage: "456241215.jpg"
+cover:
+  image: "images/456241215.jpg"
 ---
 
 Даже описать сложно, ибо дни были в своем роде насыщенные.

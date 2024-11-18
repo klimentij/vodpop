@@ -3,7 +3,8 @@ title: "Гранд Каньон в Йеллоустоне (и это не тот
 date: "2016-10-20"
 categories: 
   - "vk_posts"
-coverImage: "437112301.jpg"
+cover:
+  image: "images/437112301.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/437112302.jpg)

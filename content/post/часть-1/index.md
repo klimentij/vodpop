@@ -3,7 +3,8 @@ title: "Часть 1."
 date: "2021-03-20"
 categories: 
   - "vk_posts"
-coverImage: "457241877.jpg"
+cover:
+  image: "images/457241877.jpg"
 ---
 
 Мы вернулись в Буэнос-Айрес.

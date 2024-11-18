@@ -3,7 +3,8 @@ title: "Talavera de Puebla, Puebla, Mexico"
 date: "2017-07-19"
 categories: 
   - "vk_posts"
-coverImage: "456239883.jpg"
+cover:
+  image: "images/456239883.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456239884.jpg)

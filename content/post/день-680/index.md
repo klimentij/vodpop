@@ -3,7 +3,8 @@ title: "День 680"
 date: "2018-06-19"
 categories: 
   - "vk_posts"
-coverImage: "456240603.jpg"
+cover:
+  image: "images/456240603.jpg"
 ---
 
 Официально заявляю, что у нас началась любовь с Колумбией!

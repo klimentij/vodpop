@@ -3,7 +3,8 @@ title: "День 671"
 date: "2018-06-10"
 categories: 
   - "vk_posts"
-coverImage: "456240582.jpg"
+cover:
+  image: "images/456240582.jpg"
 ---
 
 Вместо тысячи слов - наши улыбки!

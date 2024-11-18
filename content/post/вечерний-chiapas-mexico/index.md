@@ -3,7 +3,8 @@ title: "Вечерний Chiapas, Mexico"
 date: "2017-08-21"
 categories: 
   - "vk_posts"
-coverImage: "456239983.jpg"
+cover:
+  image: "images/456239983.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456239984.jpg)

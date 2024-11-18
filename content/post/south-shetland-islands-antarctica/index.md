@@ -3,7 +3,8 @@ title: "South Shetland Islands, Antarctica"
 date: "2019-03-27"
 categories: 
   - "vk_posts"
-coverImage: "456241243.jpg"
+cover:
+  image: "images/456241243.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456241244.jpg)

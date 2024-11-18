@@ -7,7 +7,8 @@ categories:
 tags: 
   - "dostoprimechatelnosti"
   - "zooparki"
-coverImage: "0_102a30_b7b3dfdb_XXXL.jpg"
+cover:
+  image: "images/0_102a30_b7b3dfdb_XXXL.jpg"
 ---
 
 Сад орхидей на Пхукете обязательно понравится тем, кто любит эти цветы во всем их многообразии и великолепии, а также любителям птиц и зверей - на ферме есть свой маленький зоопарк.

@@ -3,7 +3,8 @@ title: "Лучшие мгновения жизни-это предвкушени
 date: "2014-10-09"
 categories: 
   - "vk_posts"
-coverImage: "341420224.jpg"
+cover:
+  image: "images/341420224.jpg"
 ---
 
 

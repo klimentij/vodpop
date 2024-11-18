@@ -3,7 +3,8 @@ title: "День 829. Isla de la Plata"
 date: "2019-02-12"
 categories: 
   - "vk_posts"
-coverImage: "456241101.jpg"
+cover:
+  image: "images/456241101.jpg"
 ---
 
 Дельфины 🦈🦈🦈

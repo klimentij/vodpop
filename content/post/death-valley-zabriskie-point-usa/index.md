@@ -3,7 +3,8 @@ title: "Death Valley, Zabriskie Point, USA"
 date: "2017-03-27"
 categories: 
   - "vk_posts"
-coverImage: "456239553.jpg"
+cover:
+  image: "images/456239553.jpg"
 ---
 
 Место было названо в честь Кристиана Бреворта Забриски, вице-президента компании Pacific Coast Borax Company, работающей в Долине в начале 20 века. Знаменитые караваны компании "Twenty Mule Teams", с

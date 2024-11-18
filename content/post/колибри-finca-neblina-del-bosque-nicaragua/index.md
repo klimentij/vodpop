@@ -3,7 +3,8 @@ title: "Колибри, Finca Neblina del Bosque, Nicaragua"
 date: "2018-03-27"
 categories: 
   - "vk_posts"
-coverImage: "456240376.jpg"
+cover:
+  image: "images/456240376.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456240377.jpg)

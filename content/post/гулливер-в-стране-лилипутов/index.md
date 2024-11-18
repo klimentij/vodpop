@@ -3,7 +3,8 @@ title: "\"Гулливер в стране Лилипутов\""
 date: "2017-05-29"
 categories: 
   - "vk_posts"
-coverImage: "456239733.jpg"
+cover:
+  image: "images/456239733.jpg"
 ---
 
 Подземный переход в Мексике.

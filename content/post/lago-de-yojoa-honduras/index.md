@@ -3,7 +3,8 @@ title: "Lago de Yojoa, Honduras"
 date: "2018-03-20"
 categories: 
   - "vk_posts"
-coverImage: "456240353.jpg"
+cover:
+  image: "images/456240353.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456240354.jpg)

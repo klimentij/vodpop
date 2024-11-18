@@ -7,7 +7,8 @@ tags:
   - "vodopadyi"
   - "zabrosyi"
   - "uzhasnaya-pogoda"
-coverImage: "0_12dbe5_1cb8bcc8_X4L.jpg"
+cover:
+  image: "images/0_12dbe5_1cb8bcc8_X4L.jpg"
 ---
 
 Рано утром мы выехали из Сельфосса, чтобы успеть до восхода солнца успеть приехать к первой точке маршрута.

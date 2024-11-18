@@ -3,7 +3,8 @@ title: "День 868-885. 16 марта - 2 апреля."
 date: "2019-04-23"
 categories: 
   - "vk_posts"
-coverImage: "456241384.jpg"
+cover:
+  image: "images/456241384.jpg"
 ---
 
 Объять необъятное.

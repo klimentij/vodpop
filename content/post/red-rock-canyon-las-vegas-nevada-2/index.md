@@ -3,7 +3,8 @@ title: "Red Rock Canyon, Las Vegas, Nevada"
 date: "2017-03-24"
 categories: 
   - "vk_posts"
-coverImage: "456239541.jpg"
+cover:
+  image: "images/456239541.jpg"
 ---
 
 Если казино и бары не для тебя, то Лас-Вегас предлагает множество пешеходных троп вокруг. Развлечения на любой вкус!

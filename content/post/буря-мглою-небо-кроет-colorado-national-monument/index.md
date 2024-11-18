@@ -3,7 +3,8 @@ title: "Буря мглою небо кроет. Colorado National Monument"
 date: "2017-03-04"
 categories: 
   - "vk_posts"
-coverImage: "456239376.jpg"
+cover:
+  image: "images/456239376.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456239377.jpg)

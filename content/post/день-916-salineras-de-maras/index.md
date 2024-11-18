@@ -3,7 +3,8 @@ title: "День 916. Salineras de Maras"
 date: "2019-05-10"
 categories: 
   - "vk_posts"
-coverImage: "456241488.jpg"
+cover:
+  image: "images/456241488.jpg"
 ---
 
 Обожаю такие места! Во-первых, за виды, а во-вторых за инженерную мысль!

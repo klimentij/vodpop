@@ -10,7 +10,8 @@ tags:
   - "kuda-shodit-s-rebenkom-v-moskve"
   - "luchshie-mesta-v-moskve-kuda-shodit-s-rebenkom"
   - "mesta"
-coverImage: "sovmestnye-igry-na-ulice.jpg"
+cover:
+  image: "images/sovmestnye-igry-na-ulice.jpg"
 ---
 
 В Москве есть множество развлечений на любой вкус и кошелек, и в этой статье я подготовила список 10 лучших мест, куда сходить с ребенком в Москве.

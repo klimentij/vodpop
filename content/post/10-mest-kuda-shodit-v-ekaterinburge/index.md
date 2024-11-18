@@ -10,7 +10,8 @@ tags:
   - "kuda-shodit-v-ekaterinburge"
   - "kuda-shodit-s-rebenkom"
   - "luchshie-mesta"
-coverImage: "vid-na-ekaterinburg.jpg"
+cover:
+  image: "images/vid-na-ekaterinburg.jpg"
 ---
 
 Екатеринбург — удивительное по своей атмосфере место, входит в четверку крупнейших городов России после Москвы, Санкт-Петербурга и Новосибирска, и может похвастаться парой сотен интересных для посещения мест.

@@ -3,7 +3,8 @@ title: "День 810. Reserva Ecológica Antisana, Ecuador"
 date: "2019-02-06"
 categories: 
   - "vk_posts"
-coverImage: "456240999.jpg"
+cover:
+  image: "images/456240999.jpg"
 ---
 
 При-ро-да! Что-то удивительное, всегда приводящая нас в восторг. Особенно, когда напоминает Аляску. Особенно, когда прохладно.

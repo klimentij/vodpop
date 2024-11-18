@@ -11,7 +11,8 @@ tags:
   - "kak-dobratsya"
   - "samolet"
   - "transport"
-coverImage: "0_ee8ab_cff662ad_XXXL.jpg"
+cover:
+  image: "images/0_ee8ab_cff662ad_XXXL.jpg"
 ---
 
 Небольшая, но полезная статья для тех, кто хочет узнать, как  добраться из Бангкока в Камбоджу быстрее и дешевле всего.

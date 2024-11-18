@@ -3,7 +3,8 @@ title: "Cayambe. Ecuador. Часть 2"
 date: "2019-02-08"
 categories: 
   - "vk_posts"
-coverImage: "456241065.jpg"
+cover:
+  image: "images/456241065.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456241066.jpg)

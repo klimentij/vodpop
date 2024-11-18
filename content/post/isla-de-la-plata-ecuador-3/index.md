@@ -3,7 +3,8 @@ title: "Isla de la Plata, Ecuador"
 date: "2019-02-12"
 categories: 
   - "vk_posts"
-coverImage: "456241115.jpg"
+cover:
+  image: "images/456241115.jpg"
 ---
 
 Папа высиживает яйцо.

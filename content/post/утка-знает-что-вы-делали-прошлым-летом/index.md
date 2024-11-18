@@ -3,7 +3,8 @@ title: "Утка знает, что вы делали прошлым летом!
 date: "2016-05-27"
 categories: 
   - "vk_posts"
-coverImage: "415618081.jpg"
+cover:
+  image: "images/415618081.jpg"
 ---
 
 

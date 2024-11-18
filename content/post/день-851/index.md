@@ -3,7 +3,8 @@ title: "День 851"
 date: "2019-02-28"
 categories: 
   - "vk_posts"
-coverImage: "456241227.jpg"
+cover:
+  image: "images/456241227.jpg"
 ---
 
 Таки догадливые наши читатели!

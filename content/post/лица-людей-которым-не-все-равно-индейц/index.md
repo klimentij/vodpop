@@ -3,7 +3,8 @@ title: "Лица людей, которым не все равно. Индейц
 date: "2016-10-29"
 categories: 
   - "vk_posts"
-coverImage: "438604759.jpg"
+cover:
+  image: "images/438604759.jpg"
 ---
 
 Лица людей, которым не все равно. Индейцы, протестующие против строительства трубопровода Dacota Access. Standing Rock Camp

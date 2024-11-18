@@ -3,7 +3,8 @@ title: "Machu Piсchu, Peru"
 date: "2019-05-28"
 categories: 
   - "vk_posts"
-coverImage: "456241524.jpg"
+cover:
+  image: "images/456241524.jpg"
 ---
 
 ![Additional Photo](https://vodpop.ru/wp-content/uploads/2023/07/456241525.jpg)

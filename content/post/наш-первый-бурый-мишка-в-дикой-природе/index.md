@@ -3,7 +3,8 @@ title: "Наш первый бурый мишка в дикой природе! 
 date: "2016-06-08"
 categories: 
   - "vk_posts"
-coverImage: "417391249.jpg"
+cover:
+  image: "images/417391249.jpg"
 ---
 
 

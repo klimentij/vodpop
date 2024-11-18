@@ -3,7 +3,8 @@ title: "28 августа 2021"
 date: "2021-08-30"
 categories: 
   - "vk_posts"
-coverImage: "457241894.jpg"
+cover:
+  image: "images/457241894.jpg"
 ---
 
 12 лет вместе

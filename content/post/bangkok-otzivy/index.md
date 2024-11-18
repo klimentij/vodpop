@@ -8,7 +8,8 @@ categories:
 tags: 
   - "впечатления"
   - "gorodskaya-kultura"
-coverImage: "0_e59bb_acf1565d_XXXL.jpg"
+cover:
+  image: "images/0_e59bb_acf1565d_XXXL.jpg"
 ---
 
 Сейчас мы с Климентием на Филиппинах, на [острове Палаван](https://vodpop.ru/kak-dobratsa-palavan/ "Как добраться на Палаван, Филиппины") (Palawan). О том, как мы тут оказались будет в следующих постах, а пока я хочу подвести итоги нашего почти месячного пребывания в Бангкоке.
