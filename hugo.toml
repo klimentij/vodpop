@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Путешествия и жизнь за рубежом'
+theme = "PaperMod"

@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Hugo
+.hugo_build.lock
+/public/
+/resources/
+/.hugo_cache/
+
+# IDE/Editor folders
+.idea/
+.vscode/
