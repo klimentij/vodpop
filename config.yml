@@ -1,7 +1,6 @@
 baseURL: "https://vodpop.ru/"
 title: "VODPOP"
 paginate: 10
-copyright: "© VodPop"
 theme: [PaperMod]
 
 enableInlineShortcodes: true
@@ -38,9 +37,9 @@ params:
   ShowPostNavLinks: true
   ShowShareButtons: true
   ShowReadingTime: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   homeInfoParams:
-    Title: "Путешествия и жизнь за рубежом"
+    Title: "Блог Водилки и Попингуя"
     Content: "Мы Саша и Клим, путешествуем по миру на суше с 2016 года."
   fuseOpts:
     isCaseSensitive: false
