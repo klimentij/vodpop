@@ -1,4 +1,4 @@
-baseURL: "https://vodpop.ru/"
+baseURL: "https://3528ea06.vodpop.pages.dev/"
 title: "VODPOP"
 paginate: 10
 theme: [PaperMod]
@@ -35,7 +35,7 @@ menu:
 params:
   defaultTheme: auto
   ShowPostNavLinks: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: true
   ShowBreadCrumbs: false
   homeInfoParams:
