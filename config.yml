@@ -1,0 +1,59 @@
+baseURL: "https://vodpop.ru/"
+title: "VODPOP"
+paginate: 10
+theme: [PaperMod]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+menu:
+  main:
+    - identifier: categories
+      name: Категории
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Теги
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Поиск
+      url: /search/
+      weight: 30
+
+params:
+  defaultTheme: auto
+  ShowPostNavLinks: true
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowBreadCrumbs: false
+  homeInfoParams:
+    Title: "Блог Водилки и Попингуя"
+    Content: "Мы Саша и Клим, путешествуем по миру на суше с 2016 года."
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.5
+    minMatchCharLength: 3
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+  socialIcons:
+    - name: "youtube"
+      url: "https://www.youtube.com/@klimentij511"
+    - name: "instagram"
+      url: "https://instagram.com/4willd"
+    - name: "vk"
+      url: "https://vk.com/vodpop"
