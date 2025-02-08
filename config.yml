@@ -34,6 +34,9 @@ menu:
 
 params:
   defaultTheme: auto
+  mainSections: ["posts"]
+  sectionsPagesMenu: ""
+  disableHomepageContent: true
   ShowPostNavLinks: true
   ShowShareButtons: false
   ShowReadingTime: true
@@ -57,3 +60,6 @@ params:
       url: "https://instagram.com/4willd"
     - name: "vk"
       url: "https://vk.com/vodpop"
+
+permalinks:
+  posts: /:filename/
