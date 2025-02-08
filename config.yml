@@ -34,9 +34,8 @@ menu:
 
 params:
   defaultTheme: auto
-  mainSections: ["posts"]
   sectionsPagesMenu: ""
-  disableHomepageContent: true
+  disableHomepageContent: false
   ShowPostNavLinks: true
   ShowShareButtons: false
   ShowReadingTime: true
